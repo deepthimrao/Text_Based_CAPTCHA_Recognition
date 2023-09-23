@@ -1,4 +1,4 @@
-# Text_Based_CAPTCHA_Recognition
+# Text Based CAPTCHA Recognition
 Advances in deep learning allow us to solve complex AI
 problems and achieve good results. One such problem is
 text recognition. 
