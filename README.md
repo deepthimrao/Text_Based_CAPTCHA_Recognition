@@ -2,20 +2,18 @@
 Advances in deep learning allow us to solve complex AI
 problems and achieve good results. One such problem is
 text recognition. 
-
 The focus is on finding a way
-to capture the text from visual text based Completely Automated Public Turing tests to tell Computers and Humans
-Apart (CAPTCHA) using deep learning algorithms. We propose a CRNN (Convolutional Recurrent Neural Network)
+to capture the text from visual text based Completely Automated Public Turing tests to tell Computers and Humans
+Apart (CAPTCHA) using deep learning algorithms. We propose a CRNN (Convolutional Recurrent Neural Network)
 based architecture to crack the output of alpha-numeric
 5 character visual CAPTCHA. 
-
 Experimented with different CRNN architectures and report results
 on different evaluation metrics. Our final CRNN network
 achieves an exact measure accuracy of 98.8% and a cosine
 similarity of 99.5% on our test data.
 
 
-Repository information:
+### Repository information:
 
 The repository contains code for training and inferring of models. It also contains all the trained models and their respective training logs.
 
